@@ -2,5 +2,13 @@
 //###########################           SSTech       ###################
 //###########################   Programming Courses  ###################
 //######################################################################
-console.log('hello world');
-console.log('hello program;');
+let num1: number;
+let num2: number;
+let num3: number;
+
+num1 = 70;
+num2 = 20;
+
+num3 = num1 + num2;
+
+console.log(num3);
